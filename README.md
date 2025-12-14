@@ -54,7 +54,8 @@ print("----------------------------------------")
 ```
 ADD COLLAB LINK:https://colab.research.google.com/drive/1U9DzJdENN6eJgfWev56Uqg6jqeTg1zgV?usp=sharing
 # Output
-<img width="718" height="336" alt="image" src="https://github.com/user-attachments/assets/679b1f09-6fac-4fa0-9b72-fa51d25773c8" />
+<img width="718" height="331" alt="image" src="https://github.com/user-attachments/assets/4e5276a5-d5ec-4403-a9ed-4706938d7f49" />
+
 
 # Result
        The average number of material in the system and in the conveyor and waiting time are successfully found.
